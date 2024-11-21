@@ -11,7 +11,7 @@ const photo = () => {
       <div className='flex space-x-3 justify-center items-center'>
       
         <div  className='flex  flex-col lg:flex-row lg:flex-wrap lg:space-x-5 lg:ml-2'>
-        <div className='lg:w-[210] lg:h-[260] bg-gray-400 lg:mb-4 lg:pr-2 lg: ml-5'></div>
+        <div className='lg:w-[210] lg:h-[260] bg-gray-400 lg:mb-4 lg:pr-2 lg:pl-2 lg:ml-5'></div>
             <Image src="/g1.png" width={210} height={260} alt='' className='mb-4 ' />
             <Image src="/g2.png" width={210} height={260} alt='' className='mb-4' />
             <Image src="/g3.png" width={210} height={260} alt='' className='mb-4' />
