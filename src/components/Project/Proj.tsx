@@ -9,7 +9,7 @@ const Proj = () => {
         0ur Projects
       </h1>
       <div className="flex-col space-y-3  w-auto lg:flex lg:flex-row lg:space-x-4 lg:justify-center lg:ml-10">
-        <div className=" w-auto  h-auto lg:w-[570px] lg:h-[255] bg-gray-900 text-gray-100 ">
+        <div className=" w-auto  h-auto lg:w-[570px] lg:h-[255px] bg-gray-900 text-gray-100 ">
           <h1 className="ml-6 text-3xl mt-10  text-opacity-100 ">Sample </h1>
           <h1 className="ml-6 text-3xl text-opacity-100 ">Project</h1>
           <button className="text-sm  hover:border-2 hover:border-gray-300 hover:transition-300 transform hover:scale-100 ml-10 mt-5 p-2 border-opacity-100 rounded-lg">
